@@ -1,0 +1,8 @@
+
+<suite name="Test suite">
+    <test name="Test search page">
+        <classes>
+            <class name="com.test.ua.titleTest"></class>
+        </classes>
+    </test>
+</suite>
